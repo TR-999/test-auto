@@ -9,6 +9,9 @@ public class TestAutoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestAutoApplication.class, args);
 	}
+	public static void main(String[] args) {
+		SpringApplication.run(TestAutoApplication.class, args);
+	}
 
 }
 //add comment
