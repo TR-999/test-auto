@@ -1,1 +1,19 @@
 testadad
+yamas 
+Low Balance Notifications
+Send me emails
+
+Alert notifications will be sent to tarmizierazali96@gmail.com
+Allowed Providers
+Select the providers you want to exclusively enable for your requests. Additional providers can be added on API requests via the `only` field. Enabling Always enforce will ensure that only the providers you have explicitly allowed will be used.
+Always enforce
+
+
+Select a provider
+No providers are specifically allowed. All non-ignored providers are used.
+
+Ignored Providers
+Select the providers you want to exclude from serving your requests.
+
+Select a provider
+No providers are ignored.
