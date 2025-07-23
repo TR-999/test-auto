@@ -9,20 +9,21 @@ public class ServletInitializer extends SpringBootServletInitializer {
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(TestAutoApplication.class);
 	}
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(TestAutoApplication.class);
-	}
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(TestAutoApplication.class);
-	}
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(TestAutoApplication.class);
-	}
-	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
-		return application.sources(TestAutoApplication.class);
-	}
+	
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
 		return application.sources(TestAutoAppli
+	}
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(TestAutoApplication.class);
+	}
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(TestAutoApplication.class);
+	}
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(TestAutoApplication.class);
+	}
+	protected SpringApplicationBuilder configure(SpringApplicationBuilder application) {
+		return application.sources(TestAutoApplication.class);
 	}
 
 }
